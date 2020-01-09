@@ -1,7 +1,42 @@
 #grey-panel {
   background-color: #f9f9f9;
+  margin-top: 70px;
 }
 
 .panel-title {
   color: #000000;
+}
+
+#swamp {
+  height: 120px;
+  width: auto;
+}
+
+#queen {
+  height: 160px;
+  width: auto;
+}
+
+#ham-wall {
+  margin: 0 10px 10px 0;
+  float: left;
+  font-size: 13px;
+}
+
+#green-panel {
+  background-color: #f5fffa;
+}
+
+#queen-div {
+  margin: 0 0 20px 10px;
+  float: right;
+}
+
+#queen-text {
+  width: auto;
+  word-wrap: break-word;
+}
+
+#queen-ul {
+  float: left;
 }
